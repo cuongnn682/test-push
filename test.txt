@@ -4,8 +4,8 @@ third line
 last
 after change
 123
-<<<<<<< HEAD
+
 before pull on laptop
-=======
+
 after push on github
->>>>>>> 675d2dd2e09996e34621ab61252785a626cbd72e
+
